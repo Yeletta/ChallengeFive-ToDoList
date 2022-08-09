@@ -1,4 +1,5 @@
 Deployed Application: https://yeletta.github.io/ChallengeFive-ToDoList/
+GitHub Repo: https://github.com/Yeletta/ChallengeFive-ToDoList
 
 
 # 05 Third-Party APIs: Work Day Scheduler
